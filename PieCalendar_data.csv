@@ -1,0 +1,1633 @@
+checkout_date,degree,checkout_count
+2019-01-02,Alumni,30.0
+2019-01-02,Teacher,430.0
+2019-01-02,bachelor degree,27.0
+2019-01-02,doctoral degree,32.0
+2019-01-02,master degree,33.0
+2019-01-03,Alumni,40.0
+2019-01-03,Teacher,1181.0
+2019-01-03,bachelor degree,5.0
+2019-01-03,doctoral degree,144.0
+2019-01-03,master degree,36.0
+2019-01-04,master degree,18.0
+2019-01-04,doctoral degree,13.0
+2019-01-04,bachelor degree,28.0
+2019-01-04,Teacher,247.0
+2019-01-04,Alumni,49.0
+2019-01-05,Alumni,10.0
+2019-01-05,Teacher,8.0
+2019-01-05,bachelor degree,20.0
+2019-01-05,doctoral degree,7.0
+2019-01-05,master degree,48.0
+2019-01-06,Alumni,18.0
+2019-01-06,Teacher,6.0
+2019-01-06,bachelor degree,53.0
+2019-01-07,master degree,77.0
+2019-01-07,doctoral degree,55.0
+2019-01-07,Teacher,1929.0
+2019-01-07,Alumni,23.0
+2019-01-07,bachelor degree,129.0
+2019-01-08,Alumni,6.0
+2019-01-08,Teacher,356.0
+2019-01-08,bachelor degree,94.0
+2019-01-08,doctoral degree,82.0
+2019-01-08,master degree,43.0
+2019-01-09,master degree,63.0
+2019-01-09,bachelor degree,80.0
+2019-01-09,doctoral degree,88.0
+2019-01-09,Alumni,15.0
+2019-01-09,Teacher,152.0
+2019-01-10,Alumni,14.0
+2019-01-10,Teacher,1518.0
+2019-01-10,bachelor degree,67.0
+2019-01-10,doctoral degree,76.0
+2019-01-10,master degree,62.0
+2019-01-11,doctoral degree,97.0
+2019-01-11,Alumni,6.0
+2019-01-11,Teacher,2758.0
+2019-01-11,bachelor degree,117.0
+2019-01-11,master degree,58.0
+2019-01-12,master degree,106.0
+2019-01-12,doctoral degree,42.0
+2019-01-12,Teacher,1107.0
+2019-01-12,bachelor degree,33.0
+2019-01-12,Alumni,24.0
+2019-01-13,Alumni,25.0
+2019-01-13,Teacher,67.0
+2019-01-13,bachelor degree,25.0
+2019-01-13,doctoral degree,70.0
+2019-01-13,master degree,50.0
+2019-01-14,Alumni,2.0
+2019-01-14,Teacher,91.0
+2019-01-14,bachelor degree,41.0
+2019-01-14,doctoral degree,77.0
+2019-01-14,master degree,68.0
+2019-01-15,master degree,156.0
+2019-01-15,doctoral degree,118.0
+2019-01-15,Alumni,10.0
+2019-01-15,Teacher,1698.0
+2019-01-15,bachelor degree,17.0
+2019-01-16,Alumni,14.0
+2019-01-16,Teacher,1452.0
+2019-01-16,bachelor degree,15.0
+2019-01-16,doctoral degree,23.0
+2019-01-16,master degree,60.0
+2019-01-17,doctoral degree,43.0
+2019-01-17,master degree,40.0
+2019-01-17,bachelor degree,32.0
+2019-01-17,Teacher,20.0
+2019-01-17,Alumni,64.0
+2019-01-18,Alumni,0.0
+2019-01-18,Teacher,182.0
+2019-01-18,bachelor degree,30.0
+2019-01-18,doctoral degree,54.0
+2019-01-18,master degree,61.0
+2019-01-19,doctoral degree,79.0
+2019-01-19,bachelor degree,18.0
+2019-01-19,master degree,20.0
+2019-01-19,Alumni,3.0
+2019-01-19,Teacher,27.0
+2019-01-20,Alumni,55.0
+2019-01-20,Teacher,59.0
+2019-01-20,bachelor degree,36.0
+2019-01-20,doctoral degree,15.0
+2019-01-20,master degree,6.0
+2019-01-21,doctoral degree,77.0
+2019-01-21,Alumni,20.0
+2019-01-21,Teacher,2929.0
+2019-01-21,bachelor degree,128.0
+2019-01-21,master degree,126.0
+2019-01-22,master degree,89.0
+2019-01-22,bachelor degree,71.0
+2019-01-22,doctoral degree,153.0
+2019-01-22,Teacher,429.0
+2019-01-22,Alumni,26.0
+2019-01-23,Alumni,2.0
+2019-01-23,Teacher,1189.0
+2019-01-23,bachelor degree,98.0
+2019-01-23,doctoral degree,64.0
+2019-01-23,master degree,99.0
+2019-01-24,Alumni,0.0
+2019-01-24,Teacher,240.0
+2019-01-24,bachelor degree,65.0
+2019-01-24,doctoral degree,71.0
+2019-01-24,master degree,69.0
+2019-01-25,master degree,35.0
+2019-01-25,doctoral degree,0.0
+2019-01-25,Alumni,0.0
+2019-01-25,Teacher,290.0
+2019-01-25,bachelor degree,107.0
+2019-01-26,bachelor degree,3.0
+2019-01-26,doctoral degree,23.0
+2019-01-26,master degree,19.0
+2019-01-27,Teacher,0.0
+2019-01-27,bachelor degree,7.0
+2019-01-27,doctoral degree,3.0
+2019-01-28,master degree,104.0
+2019-01-28,doctoral degree,83.0
+2019-01-28,Teacher,967.0
+2019-01-28,Alumni,36.0
+2019-01-28,bachelor degree,93.0
+2019-01-29,Alumni,24.0
+2019-01-29,Teacher,105.0
+2019-01-29,bachelor degree,140.0
+2019-01-29,doctoral degree,145.0
+2019-01-29,master degree,83.0
+2019-01-30,master degree,39.0
+2019-01-30,bachelor degree,107.0
+2019-01-30,doctoral degree,62.0
+2019-01-30,Alumni,32.0
+2019-01-30,Teacher,383.0
+2019-01-31,Alumni,9.0
+2019-01-31,Teacher,254.0
+2019-01-31,bachelor degree,56.0
+2019-01-31,doctoral degree,6.0
+2019-01-31,master degree,0.0
+2019-02-01,doctoral degree,41.0
+2019-02-01,Alumni,102.0
+2019-02-01,Teacher,437.0
+2019-02-01,bachelor degree,34.0
+2019-02-01,master degree,34.0
+2019-02-02,master degree,113.0
+2019-02-02,doctoral degree,3.0
+2019-02-02,bachelor degree,6.0
+2019-02-02,Teacher,8.0
+2019-02-02,Alumni,50.0
+2019-02-03,Alumni,39.0
+2019-02-03,bachelor degree,30.0
+2019-02-03,doctoral degree,0.0
+2019-02-03,master degree,3.0
+2019-02-04,Alumni,39.0
+2019-02-04,Teacher,797.0
+2019-02-04,bachelor degree,62.0
+2019-02-04,doctoral degree,9.0
+2019-02-04,master degree,166.0
+2019-02-05,master degree,68.0
+2019-02-05,doctoral degree,18.0
+2019-02-05,Alumni,0.0
+2019-02-05,Teacher,172.0
+2019-02-05,bachelor degree,118.0
+2019-02-06,Alumni,13.0
+2019-02-06,Teacher,405.0
+2019-02-06,bachelor degree,25.0
+2019-02-06,doctoral degree,128.0
+2019-02-06,master degree,156.0
+2019-02-07,master degree,65.0
+2019-02-07,bachelor degree,99.0
+2019-02-07,doctoral degree,52.0
+2019-02-07,Alumni,3.0
+2019-02-07,Teacher,1374.0
+2019-02-08,Alumni,24.0
+2019-02-08,Teacher,538.0
+2019-02-08,bachelor degree,41.0
+2019-02-08,doctoral degree,114.0
+2019-02-08,master degree,0.0
+2019-02-09,doctoral degree,29.0
+2019-02-09,Alumni,0.0
+2019-02-09,Teacher,18.0
+2019-02-09,bachelor degree,4.0
+2019-02-09,master degree,41.0
+2019-02-10,master degree,48.0
+2019-02-10,doctoral degree,20.0
+2019-02-10,Alumni,58.0
+2019-02-10,bachelor degree,3.0
+2019-02-11,master degree,119.0
+2019-02-11,Alumni,5.0
+2019-02-11,Teacher,214.0
+2019-02-11,bachelor degree,74.0
+2019-02-11,doctoral degree,37.0
+2019-02-12,bachelor degree,121.0
+2019-02-12,doctoral degree,116.0
+2019-02-12,Alumni,6.0
+2019-02-12,Teacher,138.0
+2019-02-12,master degree,38.0
+2019-02-13,master degree,180.0
+2019-02-13,doctoral degree,59.0
+2019-02-13,Alumni,14.0
+2019-02-13,Teacher,133.0
+2019-02-13,bachelor degree,132.0
+2019-02-14,Alumni,19.0
+2019-02-14,Teacher,227.0
+2019-02-14,bachelor degree,52.0
+2019-02-14,doctoral degree,126.0
+2019-02-14,master degree,36.0
+2019-02-15,doctoral degree,111.0
+2019-02-15,bachelor degree,70.0
+2019-02-15,master degree,30.0
+2019-02-15,Alumni,20.0
+2019-02-15,Teacher,241.0
+2019-02-16,Alumni,0.0
+2019-02-16,Teacher,389.0
+2019-02-16,bachelor degree,109.0
+2019-02-16,doctoral degree,35.0
+2019-02-16,master degree,76.0
+2019-02-17,Alumni,6.0
+2019-02-17,Teacher,6.0
+2019-02-17,bachelor degree,10.0
+2019-02-17,doctoral degree,45.0
+2019-02-17,master degree,0.0
+2019-02-18,master degree,98.0
+2019-02-18,doctoral degree,101.0
+2019-02-18,Teacher,354.0
+2019-02-18,Alumni,40.0
+2019-02-18,bachelor degree,164.0
+2019-02-20,Alumni,25.0
+2019-02-20,Teacher,221.0
+2019-02-20,bachelor degree,104.0
+2019-02-20,doctoral degree,70.0
+2019-02-20,master degree,148.0
+2019-02-21,master degree,168.0
+2019-02-21,doctoral degree,35.0
+2019-02-21,bachelor degree,55.0
+2019-02-21,Teacher,832.0
+2019-02-21,Alumni,8.0
+2019-02-22,Alumni,26.0
+2019-02-22,Teacher,233.0
+2019-02-22,bachelor degree,69.0
+2019-02-22,doctoral degree,67.0
+2019-02-22,master degree,82.0
+2019-02-23,doctoral degree,52.0
+2019-02-23,bachelor degree,87.0
+2019-02-23,master degree,24.0
+2019-02-23,Alumni,11.0
+2019-02-23,Teacher,34.0
+2019-02-24,bachelor degree,28.0
+2019-02-24,master degree,14.0
+2019-02-24,Alumni,31.0
+2019-02-24,Teacher,34.0
+2019-02-25,Alumni,46.0
+2019-02-25,Teacher,274.0
+2019-02-25,bachelor degree,79.0
+2019-02-25,doctoral degree,71.0
+2019-02-25,master degree,140.0
+2019-02-26,doctoral degree,151.0
+2019-02-26,bachelor degree,88.0
+2019-02-26,master degree,29.0
+2019-02-26,Alumni,15.0
+2019-02-26,Teacher,236.0
+2019-02-27,Alumni,0.0
+2019-02-27,Teacher,442.0
+2019-02-27,bachelor degree,86.0
+2019-02-27,doctoral degree,100.0
+2019-02-27,master degree,63.0
+2019-02-28,Alumni,15.0
+2019-02-28,Teacher,590.0
+2019-02-28,bachelor degree,78.0
+2019-02-28,doctoral degree,51.0
+2019-02-28,master degree,35.0
+2019-03-01,doctoral degree,32.0
+2019-03-01,bachelor degree,112.0
+2019-03-01,master degree,88.0
+2019-03-01,Alumni,51.0
+2019-03-01,Teacher,198.0
+2019-03-02,Alumni,32.0
+2019-03-02,Teacher,12.0
+2019-03-02,bachelor degree,35.0
+2019-03-02,doctoral degree,24.0
+2019-03-02,master degree,61.0
+2019-03-03,Alumni,17.0
+2019-03-03,bachelor degree,26.0
+2019-03-03,doctoral degree,2.0
+2019-03-03,master degree,102.0
+2019-03-04,master degree,87.0
+2019-03-04,doctoral degree,34.0
+2019-03-04,bachelor degree,54.0
+2019-03-04,Alumni,47.0
+2019-03-04,Teacher,48.0
+2019-03-05,Alumni,0.0
+2019-03-05,Teacher,352.0
+2019-03-05,bachelor degree,81.0
+2019-03-05,doctoral degree,75.0
+2019-03-05,master degree,90.0
+2019-03-06,Alumni,2.0
+2019-03-06,Teacher,305.0
+2019-03-06,bachelor degree,94.0
+2019-03-06,doctoral degree,35.0
+2019-03-06,master degree,72.0
+2019-03-07,master degree,22.0
+2019-03-07,doctoral degree,136.0
+2019-03-07,Alumni,0.0
+2019-03-07,Teacher,2177.0
+2019-03-07,bachelor degree,74.0
+2019-03-08,Alumni,0.0
+2019-03-08,Teacher,170.0
+2019-03-08,bachelor degree,105.0
+2019-03-08,doctoral degree,78.0
+2019-03-08,master degree,42.0
+2019-03-09,doctoral degree,19.0
+2019-03-09,bachelor degree,36.0
+2019-03-09,master degree,72.0
+2019-03-09,Alumni,12.0
+2019-03-09,Teacher,5.0
+2019-03-10,Alumni,45.0
+2019-03-10,Teacher,0.0
+2019-03-10,bachelor degree,28.0
+2019-03-10,master degree,41.0
+2019-03-11,master degree,94.0
+2019-03-11,Alumni,34.0
+2019-03-11,Teacher,97.0
+2019-03-11,bachelor degree,161.0
+2019-03-11,doctoral degree,30.0
+2019-03-12,master degree,94.0
+2019-03-12,doctoral degree,156.0
+2019-03-12,bachelor degree,164.0
+2019-03-12,Teacher,335.0
+2019-03-12,Alumni,8.0
+2019-03-13,Alumni,33.0
+2019-03-13,Teacher,275.0
+2019-03-13,bachelor degree,94.0
+2019-03-13,doctoral degree,120.0
+2019-03-13,master degree,45.0
+2019-03-14,doctoral degree,105.0
+2019-03-14,bachelor degree,160.0
+2019-03-14,master degree,14.0
+2019-03-14,Alumni,31.0
+2019-03-14,Teacher,239.0
+2019-03-15,Alumni,1.0
+2019-03-15,Teacher,253.0
+2019-03-15,bachelor degree,124.0
+2019-03-15,doctoral degree,113.0
+2019-03-15,master degree,25.0
+2019-03-16,Alumni,15.0
+2019-03-16,Teacher,17.0
+2019-03-16,bachelor degree,42.0
+2019-03-16,doctoral degree,86.0
+2019-03-16,master degree,12.0
+2019-03-17,master degree,6.0
+2019-03-17,doctoral degree,23.0
+2019-03-17,bachelor degree,48.0
+2019-03-17,Alumni,20.0
+2019-03-17,Teacher,1.0
+2019-03-18,Alumni,16.0
+2019-03-18,Teacher,57.0
+2019-03-18,bachelor degree,187.0
+2019-03-18,doctoral degree,121.0
+2019-03-18,master degree,103.0
+2019-03-19,doctoral degree,171.0
+2019-03-19,bachelor degree,64.0
+2019-03-19,master degree,132.0
+2019-03-19,Alumni,10.0
+2019-03-19,Teacher,582.0
+2019-03-20,Alumni,24.0
+2019-03-20,Teacher,225.0
+2019-03-20,bachelor degree,86.0
+2019-03-20,doctoral degree,64.0
+2019-03-20,master degree,82.0
+2019-03-21,Teacher,40.0
+2019-03-21,bachelor degree,85.0
+2019-03-21,doctoral degree,62.0
+2019-03-21,master degree,71.0
+2019-03-22,master degree,130.0
+2019-03-22,bachelor degree,61.0
+2019-03-22,doctoral degree,42.0
+2019-03-22,Alumni,0.0
+2019-03-22,Teacher,104.0
+2019-03-23,Alumni,46.0
+2019-03-23,Teacher,1879.0
+2019-03-23,bachelor degree,33.0
+2019-03-23,doctoral degree,59.0
+2019-03-23,master degree,50.0
+2019-03-24,bachelor degree,2.0
+2019-03-25,doctoral degree,94.0
+2019-03-25,bachelor degree,57.0
+2019-03-25,master degree,29.0
+2019-03-25,Alumni,104.0
+2019-03-25,Teacher,491.0
+2019-03-26,Alumni,0.0
+2019-03-26,Teacher,483.0
+2019-03-26,bachelor degree,81.0
+2019-03-26,doctoral degree,74.0
+2019-03-26,master degree,28.0
+2019-03-27,Alumni,48.0
+2019-03-27,Teacher,590.0
+2019-03-27,bachelor degree,77.0
+2019-03-27,doctoral degree,44.0
+2019-03-27,master degree,106.0
+2019-03-28,doctoral degree,23.0
+2019-03-28,bachelor degree,222.0
+2019-03-28,master degree,37.0
+2019-03-28,Alumni,4.0
+2019-03-28,Teacher,908.0
+2019-03-29,Alumni,12.0
+2019-03-29,Teacher,220.0
+2019-03-29,bachelor degree,101.0
+2019-03-29,doctoral degree,14.0
+2019-03-29,master degree,63.0
+2019-03-30,Alumni,15.0
+2019-03-30,Teacher,26.0
+2019-03-30,bachelor degree,76.0
+2019-03-30,doctoral degree,33.0
+2019-03-30,master degree,51.0
+2019-03-31,master degree,51.0
+2019-03-31,doctoral degree,5.0
+2019-03-31,Alumni,30.0
+2019-03-31,bachelor degree,33.0
+2019-04-01,Alumni,46.0
+2019-04-01,Teacher,74.0
+2019-04-01,bachelor degree,115.0
+2019-04-01,doctoral degree,38.0
+2019-04-01,master degree,79.0
+2019-04-02,doctoral degree,62.0
+2019-04-02,bachelor degree,146.0
+2019-04-02,master degree,85.0
+2019-04-02,Alumni,10.0
+2019-04-02,Teacher,788.0
+2019-04-03,Alumni,0.0
+2019-04-03,Teacher,26.0
+2019-04-03,bachelor degree,82.0
+2019-04-03,doctoral degree,53.0
+2019-04-03,master degree,56.0
+2019-04-04,Alumni,2.0
+2019-04-04,Teacher,496.0
+2019-04-04,bachelor degree,77.0
+2019-04-04,doctoral degree,107.0
+2019-04-04,master degree,37.0
+2019-04-05,master degree,118.0
+2019-04-05,doctoral degree,241.0
+2019-04-05,Alumni,25.0
+2019-04-05,Teacher,706.0
+2019-04-05,bachelor degree,116.0
+2019-04-07,bachelor degree,0.0
+2019-04-07,master degree,6.0
+2019-04-09,Alumni,57.0
+2019-04-09,Teacher,896.0
+2019-04-09,bachelor degree,216.0
+2019-04-09,doctoral degree,80.0
+2019-04-09,master degree,130.0
+2019-04-10,master degree,174.0
+2019-04-10,doctoral degree,130.0
+2019-04-10,bachelor degree,306.0
+2019-04-10,Teacher,1332.0
+2019-04-10,Alumni,43.0
+2019-04-11,Alumni,27.0
+2019-04-11,Teacher,1770.0
+2019-04-11,bachelor degree,302.0
+2019-04-11,doctoral degree,352.0
+2019-04-11,master degree,242.0
+2019-04-16,bachelor degree,0.0
+2019-04-17,doctoral degree,69.0
+2019-04-17,bachelor degree,128.0
+2019-04-17,master degree,48.0
+2019-04-17,Alumni,14.0
+2019-04-17,Teacher,351.0
+2019-04-18,Alumni,24.0
+2019-04-18,Teacher,206.0
+2019-04-18,bachelor degree,98.0
+2019-04-18,doctoral degree,269.0
+2019-04-18,master degree,127.0
+2019-04-19,Alumni,11.0
+2019-04-19,Teacher,266.0
+2019-04-19,bachelor degree,97.0
+2019-04-19,doctoral degree,79.0
+2019-04-19,master degree,25.0
+2019-04-20,master degree,159.0
+2019-04-20,doctoral degree,110.0
+2019-04-20,Alumni,3.0
+2019-04-20,Teacher,64.0
+2019-04-20,bachelor degree,31.0
+2019-04-21,Alumni,24.0
+2019-04-21,bachelor degree,46.0
+2019-04-21,doctoral degree,69.0
+2019-04-21,master degree,38.0
+2019-04-22,doctoral degree,94.0
+2019-04-22,bachelor degree,91.0
+2019-04-22,master degree,57.0
+2019-04-22,Alumni,19.0
+2019-04-22,Teacher,338.0
+2019-04-23,Alumni,12.0
+2019-04-23,Teacher,107.0
+2019-04-23,bachelor degree,134.0
+2019-04-23,doctoral degree,69.0
+2019-04-23,master degree,102.0
+2019-04-24,master degree,97.0
+2019-04-24,Alumni,40.0
+2019-04-24,Teacher,81.0
+2019-04-24,bachelor degree,115.0
+2019-04-24,doctoral degree,116.0
+2019-04-25,bachelor degree,143.0
+2019-04-25,master degree,92.0
+2019-04-25,Alumni,20.0
+2019-04-25,Teacher,444.0
+2019-04-25,doctoral degree,274.0
+2019-04-26,Alumni,3.0
+2019-04-26,Teacher,543.0
+2019-04-26,bachelor degree,113.0
+2019-04-26,doctoral degree,144.0
+2019-04-26,master degree,63.0
+2019-04-27,Alumni,11.0
+2019-04-27,Teacher,15.0
+2019-04-27,bachelor degree,105.0
+2019-04-27,doctoral degree,45.0
+2019-04-27,master degree,56.0
+2019-04-28,master degree,0.0
+2019-04-28,doctoral degree,21.0
+2019-04-28,Alumni,46.0
+2019-04-28,Teacher,38.0
+2019-04-28,bachelor degree,35.0
+2019-04-29,Alumni,42.0
+2019-04-29,Teacher,1329.0
+2019-04-29,bachelor degree,90.0
+2019-04-29,doctoral degree,156.0
+2019-04-29,master degree,54.0
+2019-04-30,master degree,33.0
+2019-04-30,doctoral degree,21.0
+2019-04-30,bachelor degree,50.0
+2019-04-30,Teacher,516.0
+2019-04-30,Alumni,73.0
+2019-05-01,Alumni,0.0
+2019-05-01,Teacher,311.0
+2019-05-01,bachelor degree,151.0
+2019-05-01,doctoral degree,77.0
+2019-05-01,master degree,88.0
+2019-05-02,doctoral degree,59.0
+2019-05-02,bachelor degree,122.0
+2019-05-02,master degree,83.0
+2019-05-02,Alumni,11.0
+2019-05-02,Teacher,774.0
+2019-05-03,Alumni,0.0
+2019-05-03,Teacher,724.0
+2019-05-03,bachelor degree,216.0
+2019-05-03,doctoral degree,150.0
+2019-05-03,master degree,156.0
+2019-05-04,bachelor degree,4.0
+2019-05-04,doctoral degree,0.0
+2019-05-04,master degree,21.0
+2019-05-06,master degree,0.0
+2019-05-07,doctoral degree,149.0
+2019-05-07,bachelor degree,132.0
+2019-05-07,master degree,110.0
+2019-05-07,Alumni,29.0
+2019-05-07,Teacher,475.0
+2019-05-08,master degree,97.0
+2019-05-08,doctoral degree,109.0
+2019-05-08,Teacher,633.0
+2019-05-08,bachelor degree,66.0
+2019-05-08,Alumni,38.0
+2019-05-09,bachelor degree,5.0
+2019-05-10,Alumni,1.0
+2019-05-10,Teacher,1908.0
+2019-05-10,bachelor degree,117.0
+2019-05-10,doctoral degree,69.0
+2019-05-10,master degree,198.0
+2019-05-11,master degree,62.0
+2019-05-11,bachelor degree,79.0
+2019-05-11,doctoral degree,124.0
+2019-05-11,Alumni,16.0
+2019-05-11,Teacher,145.0
+2019-05-12,bachelor degree,31.0
+2019-05-12,doctoral degree,24.0
+2019-05-12,master degree,42.0
+2019-05-13,Alumni,19.0
+2019-05-13,Teacher,266.0
+2019-05-13,bachelor degree,86.0
+2019-05-13,doctoral degree,80.0
+2019-05-13,master degree,121.0
+2019-05-14,master degree,67.0
+2019-05-14,doctoral degree,64.0
+2019-05-14,Alumni,3.0
+2019-05-14,Teacher,268.0
+2019-05-14,bachelor degree,61.0
+2019-05-15,Alumni,33.0
+2019-05-15,Teacher,250.0
+2019-05-15,bachelor degree,112.0
+2019-05-15,doctoral degree,84.0
+2019-05-15,master degree,31.0
+2019-05-16,Alumni,5.0
+2019-05-16,Teacher,260.0
+2019-05-16,bachelor degree,114.0
+2019-05-16,doctoral degree,89.0
+2019-05-16,master degree,26.0
+2019-05-17,master degree,43.0
+2019-05-17,doctoral degree,143.0
+2019-05-17,Alumni,0.0
+2019-05-17,Teacher,26991.0
+2019-05-17,bachelor degree,89.0
+2019-05-18,master degree,1.0
+2019-05-21,Alumni,8.0
+2019-05-21,Teacher,23954.0
+2019-05-21,bachelor degree,116.0
+2019-05-21,doctoral degree,183.0
+2019-05-21,master degree,127.0
+2019-05-22,doctoral degree,66.0
+2019-05-22,master degree,134.0
+2019-05-22,bachelor degree,91.0
+2019-05-22,Alumni,28.0
+2019-05-22,Teacher,13101.0
+2019-05-23,Alumni,25.0
+2019-05-23,Teacher,7086.0
+2019-05-23,bachelor degree,75.0
+2019-05-23,doctoral degree,205.0
+2019-05-23,master degree,75.0
+2019-05-24,Alumni,37.0
+2019-05-24,Teacher,29917.0
+2019-05-24,bachelor degree,86.0
+2019-05-24,doctoral degree,117.0
+2019-05-24,master degree,88.0
+2019-05-25,master degree,54.0
+2019-05-25,doctoral degree,72.0
+2019-05-25,bachelor degree,15.0
+2019-05-25,Teacher,20.0
+2019-05-25,Alumni,53.0
+2019-05-26,Alumni,15.0
+2019-05-26,Teacher,24.0
+2019-05-26,bachelor degree,6.0
+2019-05-27,Alumni,18.0
+2019-05-27,Teacher,1958.0
+2019-05-27,bachelor degree,87.0
+2019-05-27,doctoral degree,63.0
+2019-05-27,master degree,40.0
+2019-05-28,master degree,8.0
+2019-05-28,doctoral degree,84.0
+2019-05-28,Teacher,132.0
+2019-05-28,Alumni,71.0
+2019-05-28,bachelor degree,2.0
+2019-05-29,Teacher,126.0
+2019-05-29,bachelor degree,25.0
+2019-05-29,doctoral degree,40.0
+2019-05-29,master degree,9.0
+2019-05-30,Alumni,15.0
+2019-05-30,Teacher,182.0
+2019-05-30,bachelor degree,43.0
+2019-05-30,doctoral degree,18.0
+2019-05-30,master degree,26.0
+2019-05-31,master degree,59.0
+2019-05-31,doctoral degree,210.0
+2019-05-31,Alumni,3.0
+2019-05-31,Teacher,175.0
+2019-05-31,bachelor degree,38.0
+2019-06-01,Alumni,0.0
+2019-06-01,Teacher,25.0
+2019-06-01,bachelor degree,2.0
+2019-06-01,doctoral degree,45.0
+2019-06-01,master degree,3.0
+2019-06-02,doctoral degree,254.0
+2019-06-02,master degree,0.0
+2019-06-02,bachelor degree,35.0
+2019-06-02,Alumni,32.0
+2019-06-03,Teacher,0.0
+2019-06-04,Alumni,20.0
+2019-06-04,Teacher,510.0
+2019-06-04,bachelor degree,83.0
+2019-06-04,doctoral degree,9.0
+2019-06-04,master degree,31.0
+2019-06-05,Alumni,58.0
+2019-06-05,Teacher,106.0
+2019-06-05,bachelor degree,42.0
+2019-06-05,doctoral degree,144.0
+2019-06-05,master degree,40.0
+2019-06-06,master degree,16.0
+2019-06-06,doctoral degree,9.0
+2019-06-06,Alumni,12.0
+2019-06-06,Teacher,159.0
+2019-06-06,bachelor degree,72.0
+2019-06-07,Alumni,24.0
+2019-06-07,Teacher,636.0
+2019-06-07,bachelor degree,47.0
+2019-06-07,doctoral degree,81.0
+2019-06-07,master degree,43.0
+2019-06-08,doctoral degree,22.0
+2019-06-08,master degree,32.0
+2019-06-08,bachelor degree,16.0
+2019-06-08,Teacher,36.0
+2019-06-08,Alumni,15.0
+2019-06-09,Alumni,20.0
+2019-06-09,Teacher,12.0
+2019-06-09,bachelor degree,93.0
+2019-06-09,doctoral degree,8.0
+2019-06-09,master degree,0.0
+2019-06-10,doctoral degree,162.0
+2019-06-10,bachelor degree,52.0
+2019-06-10,master degree,56.0
+2019-06-10,Alumni,6.0
+2019-06-10,Teacher,903.0
+2019-06-11,Alumni,42.0
+2019-06-11,Teacher,1131.0
+2019-06-11,bachelor degree,24.0
+2019-06-11,doctoral degree,22.0
+2019-06-11,master degree,45.0
+2019-06-12,doctoral degree,53.0
+2019-06-12,Alumni,24.0
+2019-06-12,Teacher,66.0
+2019-06-12,bachelor degree,62.0
+2019-06-12,master degree,52.0
+2019-06-13,master degree,28.0
+2019-06-13,bachelor degree,48.0
+2019-06-13,doctoral degree,90.0
+2019-06-13,Alumni,28.0
+2019-06-13,Teacher,123.0
+2019-06-14,Alumni,1.0
+2019-06-14,Teacher,187.0
+2019-06-14,bachelor degree,20.0
+2019-06-14,doctoral degree,149.0
+2019-06-14,master degree,43.0
+2019-06-15,Alumni,22.0
+2019-06-15,Teacher,11.0
+2019-06-15,bachelor degree,12.0
+2019-06-15,doctoral degree,12.0
+2019-06-15,master degree,132.0
+2019-06-16,master degree,0.0
+2019-06-16,doctoral degree,0.0
+2019-06-16,Alumni,22.0
+2019-06-16,Teacher,25.0
+2019-06-16,bachelor degree,0.0
+2019-06-17,master degree,72.0
+2019-06-17,Alumni,0.0
+2019-06-17,Teacher,88.0
+2019-06-17,bachelor degree,59.0
+2019-06-17,doctoral degree,21.0
+2019-06-18,bachelor degree,73.0
+2019-06-18,master degree,0.0
+2019-06-18,Alumni,25.0
+2019-06-18,Teacher,343.0
+2019-06-18,doctoral degree,42.0
+2019-06-19,Alumni,36.0
+2019-06-19,Teacher,293.0
+2019-06-19,bachelor degree,42.0
+2019-06-19,doctoral degree,25.0
+2019-06-19,master degree,36.0
+2019-06-20,Alumni,36.0
+2019-06-20,Teacher,394.0
+2019-06-20,bachelor degree,81.0
+2019-06-20,doctoral degree,46.0
+2019-06-20,master degree,5.0
+2019-06-21,master degree,54.0
+2019-06-21,doctoral degree,40.0
+2019-06-21,Teacher,396.0
+2019-06-21,bachelor degree,86.0
+2019-06-21,Alumni,21.0
+2019-06-22,Alumni,12.0
+2019-06-22,bachelor degree,75.0
+2019-06-22,doctoral degree,45.0
+2019-06-22,master degree,135.0
+2019-06-23,Alumni,25.0
+2019-06-23,Teacher,45.0
+2019-06-23,bachelor degree,7.0
+2019-06-24,master degree,50.0
+2019-06-24,doctoral degree,38.0
+2019-06-24,bachelor degree,57.0
+2019-06-24,Alumni,36.0
+2019-06-24,Teacher,257.0
+2019-06-25,Alumni,10.0
+2019-06-25,Teacher,56.0
+2019-06-25,bachelor degree,58.0
+2019-06-25,doctoral degree,17.0
+2019-06-25,master degree,32.0
+2019-06-26,doctoral degree,9.0
+2019-06-26,bachelor degree,45.0
+2019-06-26,master degree,92.0
+2019-06-26,Alumni,26.0
+2019-06-26,Teacher,281.0
+2019-06-27,Alumni,10.0
+2019-06-27,Teacher,126.0
+2019-06-27,bachelor degree,46.0
+2019-06-27,doctoral degree,6.0
+2019-06-27,master degree,40.0
+2019-06-28,master degree,69.0
+2019-06-28,Alumni,0.0
+2019-06-28,Teacher,224.0
+2019-06-28,bachelor degree,116.0
+2019-06-28,doctoral degree,154.0
+2019-06-29,bachelor degree,19.0
+2019-06-29,master degree,23.0
+2019-06-29,Alumni,18.0
+2019-06-29,Teacher,2.0
+2019-06-30,Teacher,8.0
+2019-06-30,bachelor degree,48.0
+2019-06-30,master degree,66.0
+2019-07-01,Alumni,18.0
+2019-07-01,Teacher,577.0
+2019-07-01,bachelor degree,62.0
+2019-07-01,doctoral degree,63.0
+2019-07-01,master degree,25.0
+2019-07-02,master degree,76.0
+2019-07-02,bachelor degree,32.0
+2019-07-02,doctoral degree,9.0
+2019-07-02,Alumni,3.0
+2019-07-02,Teacher,318.0
+2019-07-03,Alumni,51.0
+2019-07-03,Teacher,295.0
+2019-07-03,bachelor degree,60.0
+2019-07-03,doctoral degree,35.0
+2019-07-03,master degree,43.0
+2019-07-04,Alumni,19.0
+2019-07-04,Teacher,231.0
+2019-07-04,bachelor degree,50.0
+2019-07-04,doctoral degree,30.0
+2019-07-04,master degree,58.0
+2019-07-05,master degree,14.0
+2019-07-05,doctoral degree,40.0
+2019-07-05,Alumni,25.0
+2019-07-05,Teacher,85.0
+2019-07-05,bachelor degree,52.0
+2019-07-06,Alumni,59.0
+2019-07-06,Teacher,72.0
+2019-07-06,bachelor degree,36.0
+2019-07-06,doctoral degree,16.0
+2019-07-06,master degree,32.0
+2019-07-07,Alumni,20.0
+2019-07-07,bachelor degree,19.0
+2019-07-07,doctoral degree,21.0
+2019-07-07,master degree,4.0
+2019-07-08,master degree,100.0
+2019-07-08,bachelor degree,42.0
+2019-07-08,doctoral degree,52.0
+2019-07-08,Alumni,14.0
+2019-07-08,Teacher,187.0
+2019-07-09,Alumni,0.0
+2019-07-09,Teacher,713.0
+2019-07-09,bachelor degree,78.0
+2019-07-09,doctoral degree,58.0
+2019-07-09,master degree,39.0
+2019-07-10,Alumni,30.0
+2019-07-10,Teacher,177.0
+2019-07-10,bachelor degree,19.0
+2019-07-10,doctoral degree,53.0
+2019-07-10,master degree,14.0
+2019-07-11,master degree,16.0
+2019-07-11,doctoral degree,125.0
+2019-07-11,Teacher,199.0
+2019-07-11,Alumni,25.0
+2019-07-11,bachelor degree,33.0
+2019-07-12,Alumni,9.0
+2019-07-12,Teacher,435.0
+2019-07-12,bachelor degree,60.0
+2019-07-12,doctoral degree,76.0
+2019-07-12,master degree,16.0
+2019-07-13,master degree,88.0
+2019-07-13,bachelor degree,27.0
+2019-07-13,doctoral degree,77.0
+2019-07-13,Alumni,20.0
+2019-07-13,Teacher,0.0
+2019-07-14,Alumni,43.0
+2019-07-14,bachelor degree,56.0
+2019-07-14,doctoral degree,4.0
+2019-07-14,master degree,0.0
+2019-07-15,master degree,91.0
+2019-07-15,Alumni,87.0
+2019-07-15,Teacher,373.0
+2019-07-15,bachelor degree,65.0
+2019-07-15,doctoral degree,94.0
+2019-07-17,bachelor degree,2.0
+2019-07-18,master degree,38.0
+2019-07-18,doctoral degree,73.0
+2019-07-18,Teacher,1151.0
+2019-07-18,bachelor degree,119.0
+2019-07-18,Alumni,72.0
+2019-07-19,Alumni,20.0
+2019-07-19,Teacher,1728.0
+2019-07-19,bachelor degree,48.0
+2019-07-19,doctoral degree,71.0
+2019-07-19,master degree,21.0
+2019-07-20,doctoral degree,21.0
+2019-07-20,bachelor degree,19.0
+2019-07-20,master degree,2.0
+2019-07-20,Alumni,64.0
+2019-07-20,Teacher,0.0
+2019-07-21,Alumni,24.0
+2019-07-21,Teacher,15.0
+2019-07-21,bachelor degree,27.0
+2019-07-21,master degree,1.0
+2019-07-22,Alumni,40.0
+2019-07-22,Teacher,466.0
+2019-07-22,bachelor degree,44.0
+2019-07-22,doctoral degree,32.0
+2019-07-22,master degree,286.0
+2019-07-23,master degree,6.0
+2019-07-23,doctoral degree,93.0
+2019-07-23,bachelor degree,78.0
+2019-07-23,Teacher,262.0
+2019-07-23,Alumni,12.0
+2019-07-24,Alumni,10.0
+2019-07-24,Teacher,172.0
+2019-07-24,bachelor degree,10.0
+2019-07-24,doctoral degree,13.0
+2019-07-24,master degree,29.0
+2019-07-25,doctoral degree,14.0
+2019-07-25,bachelor degree,25.0
+2019-07-25,master degree,11.0
+2019-07-25,Alumni,38.0
+2019-07-25,Teacher,1144.0
+2019-07-26,Alumni,12.0
+2019-07-26,Teacher,93.0
+2019-07-26,bachelor degree,24.0
+2019-07-26,doctoral degree,2.0
+2019-07-26,master degree,63.0
+2019-07-27,Alumni,45.0
+2019-07-27,bachelor degree,41.0
+2019-07-27,doctoral degree,71.0
+2019-07-27,master degree,27.0
+2019-07-28,bachelor degree,2.0
+2019-07-28,Teacher,5.0
+2019-07-29,bachelor degree,2.0
+2019-07-30,master degree,44.0
+2019-07-30,doctoral degree,59.0
+2019-07-30,Teacher,438.0
+2019-07-30,bachelor degree,53.0
+2019-07-30,Alumni,21.0
+2019-07-31,Alumni,36.0
+2019-07-31,Teacher,2203.0
+2019-07-31,bachelor degree,65.0
+2019-07-31,doctoral degree,49.0
+2019-07-31,master degree,83.0
+2019-08-01,doctoral degree,17.0
+2019-08-01,bachelor degree,53.0
+2019-08-01,master degree,46.0
+2019-08-01,Alumni,17.0
+2019-08-01,Teacher,853.0
+2019-08-02,Alumni,37.0
+2019-08-02,Teacher,504.0
+2019-08-02,bachelor degree,51.0
+2019-08-02,doctoral degree,104.0
+2019-08-02,master degree,70.0
+2019-08-03,Alumni,24.0
+2019-08-03,Teacher,24.0
+2019-08-03,bachelor degree,11.0
+2019-08-03,doctoral degree,10.0
+2019-08-03,master degree,10.0
+2019-08-05,master degree,54.0
+2019-08-05,doctoral degree,41.0
+2019-08-05,bachelor degree,82.0
+2019-08-05,Teacher,187.0
+2019-08-05,Alumni,7.0
+2019-08-06,Alumni,24.0
+2019-08-06,Teacher,132.0
+2019-08-06,bachelor degree,36.0
+2019-08-06,doctoral degree,84.0
+2019-08-06,master degree,22.0
+2019-08-07,Alumni,25.0
+2019-08-07,Teacher,341.0
+2019-08-07,bachelor degree,34.0
+2019-08-07,doctoral degree,105.0
+2019-08-07,master degree,53.0
+2019-08-08,master degree,132.0
+2019-08-08,doctoral degree,76.0
+2019-08-08,Alumni,25.0
+2019-08-08,Teacher,528.0
+2019-08-08,bachelor degree,84.0
+2019-08-09,Alumni,8.0
+2019-08-09,Teacher,544.0
+2019-08-09,bachelor degree,97.0
+2019-08-09,doctoral degree,30.0
+2019-08-09,master degree,82.0
+2019-08-10,doctoral degree,12.0
+2019-08-10,master degree,152.0
+2019-08-10,bachelor degree,21.0
+2019-08-10,Teacher,5.0
+2019-08-10,Alumni,27.0
+2019-08-11,Alumni,25.0
+2019-08-11,Teacher,25.0
+2019-08-11,bachelor degree,12.0
+2019-08-11,doctoral degree,0.0
+2019-08-11,master degree,60.0
+2019-08-12,bachelor degree,10.0
+2019-08-13,doctoral degree,60.0
+2019-08-13,bachelor degree,201.0
+2019-08-13,master degree,127.0
+2019-08-13,Alumni,39.0
+2019-08-13,Teacher,452.0
+2019-08-14,Alumni,17.0
+2019-08-14,Teacher,742.0
+2019-08-14,bachelor degree,135.0
+2019-08-14,doctoral degree,86.0
+2019-08-14,master degree,81.0
+2019-08-15,Alumni,21.0
+2019-08-15,Teacher,550.0
+2019-08-15,bachelor degree,192.0
+2019-08-15,doctoral degree,97.0
+2019-08-15,master degree,133.0
+2019-08-16,master degree,217.0
+2019-08-16,doctoral degree,14.0
+2019-08-16,Teacher,127.0
+2019-08-16,Alumni,60.0
+2019-08-16,bachelor degree,207.0
+2019-08-17,Alumni,44.0
+2019-08-17,Teacher,111.0
+2019-08-17,bachelor degree,182.0
+2019-08-17,doctoral degree,41.0
+2019-08-17,master degree,120.0
+2019-08-18,doctoral degree,87.0
+2019-08-18,master degree,64.0
+2019-08-18,Teacher,42.0
+2019-08-18,Alumni,2.0
+2019-08-18,bachelor degree,29.0
+2019-08-19,master degree,122.0
+2019-08-19,Alumni,27.0
+2019-08-19,Teacher,481.0
+2019-08-19,bachelor degree,269.0
+2019-08-19,doctoral degree,193.0
+2019-08-20,bachelor degree,150.0
+2019-08-20,doctoral degree,189.0
+2019-08-20,Alumni,25.0
+2019-08-20,Teacher,420.0
+2019-08-20,master degree,92.0
+2019-08-21,master degree,249.0
+2019-08-21,doctoral degree,79.0
+2019-08-21,Teacher,3361.0
+2019-08-21,Alumni,10.0
+2019-08-21,bachelor degree,203.0
+2019-08-22,Teacher,118.0
+2019-08-22,bachelor degree,137.0
+2019-08-22,doctoral degree,62.0
+2019-08-22,master degree,215.0
+2019-08-23,Alumni,35.0
+2019-08-23,Teacher,1172.0
+2019-08-23,bachelor degree,136.0
+2019-08-23,doctoral degree,146.0
+2019-08-23,master degree,222.0
+2019-08-24,master degree,141.0
+2019-08-24,doctoral degree,50.0
+2019-08-24,bachelor degree,110.0
+2019-08-24,Alumni,45.0
+2019-08-24,Teacher,16.0
+2019-08-25,Teacher,8.0
+2019-08-25,bachelor degree,21.0
+2019-08-25,doctoral degree,5.0
+2019-08-25,master degree,33.0
+2019-08-26,Alumni,0.0
+2019-08-26,Teacher,247.0
+2019-08-26,bachelor degree,146.0
+2019-08-26,doctoral degree,56.0
+2019-08-26,master degree,97.0
+2019-08-27,master degree,158.0
+2019-08-27,doctoral degree,79.0
+2019-08-27,Alumni,0.0
+2019-08-27,Teacher,314.0
+2019-08-27,bachelor degree,218.0
+2019-08-28,Alumni,30.0
+2019-08-28,Teacher,325.0
+2019-08-28,bachelor degree,122.0
+2019-08-28,doctoral degree,58.0
+2019-08-28,master degree,102.0
+2019-08-29,doctoral degree,89.0
+2019-08-29,bachelor degree,163.0
+2019-08-29,master degree,179.0
+2019-08-29,Alumni,18.0
+2019-08-29,Teacher,280.0
+2019-08-30,Alumni,44.0
+2019-08-30,Teacher,150.0
+2019-08-30,bachelor degree,110.0
+2019-08-30,doctoral degree,42.0
+2019-08-30,master degree,149.0
+2019-08-31,Alumni,13.0
+2019-08-31,Teacher,8.0
+2019-08-31,bachelor degree,143.0
+2019-08-31,doctoral degree,85.0
+2019-08-31,master degree,151.0
+2019-09-01,master degree,61.0
+2019-09-01,doctoral degree,193.0
+2019-09-01,Alumni,0.0
+2019-09-01,Teacher,9.0
+2019-09-01,bachelor degree,26.0
+2019-09-02,Alumni,20.0
+2019-09-02,Teacher,245.0
+2019-09-02,bachelor degree,205.0
+2019-09-02,doctoral degree,62.0
+2019-09-02,master degree,138.0
+2019-09-03,doctoral degree,172.0
+2019-09-03,bachelor degree,128.0
+2019-09-03,master degree,195.0
+2019-09-03,Alumni,2.0
+2019-09-03,Teacher,233.0
+2019-09-04,Teacher,217.0
+2019-09-04,bachelor degree,117.0
+2019-09-04,doctoral degree,107.0
+2019-09-04,master degree,94.0
+2019-09-04,Alumni,46.0
+2019-09-05,Alumni,5.0
+2019-09-05,Teacher,590.0
+2019-09-05,bachelor degree,154.0
+2019-09-05,doctoral degree,84.0
+2019-09-05,master degree,99.0
+2019-09-06,doctoral degree,81.0
+2019-09-06,master degree,187.0
+2019-09-06,bachelor degree,109.0
+2019-09-06,Alumni,18.0
+2019-09-06,Teacher,418.0
+2019-09-07,Alumni,38.0
+2019-09-07,Teacher,182.0
+2019-09-07,bachelor degree,172.0
+2019-09-07,doctoral degree,23.0
+2019-09-07,master degree,124.0
+2019-09-08,doctoral degree,0.0
+2019-09-08,bachelor degree,46.0
+2019-09-08,master degree,29.0
+2019-09-08,Alumni,70.0
+2019-09-08,Teacher,3.0
+2019-09-09,Alumni,2.0
+2019-09-09,Teacher,399.0
+2019-09-09,bachelor degree,197.0
+2019-09-09,doctoral degree,144.0
+2019-09-09,master degree,108.0
+2019-09-10,Alumni,6.0
+2019-09-10,Teacher,208.0
+2019-09-10,bachelor degree,95.0
+2019-09-10,doctoral degree,57.0
+2019-09-10,master degree,108.0
+2019-09-11,master degree,57.0
+2019-09-11,doctoral degree,122.0
+2019-09-11,Alumni,58.0
+2019-09-11,Teacher,76.0
+2019-09-11,bachelor degree,198.0
+2019-09-12,Teacher,305.0
+2019-09-12,bachelor degree,167.0
+2019-09-12,doctoral degree,91.0
+2019-09-12,master degree,162.0
+2019-09-13,Alumni,54.0
+2019-09-13,Teacher,253.0
+2019-09-13,bachelor degree,125.0
+2019-09-13,doctoral degree,128.0
+2019-09-13,master degree,116.0
+2019-09-14,master degree,52.0
+2019-09-14,doctoral degree,19.0
+2019-09-14,Alumni,36.0
+2019-09-14,Teacher,41.0
+2019-09-14,bachelor degree,85.0
+2019-09-15,master degree,29.0
+2019-09-15,Alumni,4.0
+2019-09-15,Teacher,6.0
+2019-09-15,bachelor degree,44.0
+2019-09-15,doctoral degree,18.0
+2019-09-16,master degree,163.0
+2019-09-16,doctoral degree,98.0
+2019-09-16,bachelor degree,137.0
+2019-09-16,Teacher,1286.0
+2019-09-16,Alumni,19.0
+2019-09-17,Alumni,6.0
+2019-09-17,Teacher,475.0
+2019-09-17,bachelor degree,163.0
+2019-09-17,doctoral degree,133.0
+2019-09-17,master degree,124.0
+2019-09-18,doctoral degree,33.0
+2019-09-18,bachelor degree,202.0
+2019-09-18,master degree,152.0
+2019-09-18,Alumni,10.0
+2019-09-18,Teacher,177.0
+2019-09-19,Alumni,27.0
+2019-09-19,Teacher,195.0
+2019-09-19,bachelor degree,119.0
+2019-09-19,doctoral degree,110.0
+2019-09-19,master degree,170.0
+2019-09-20,Alumni,25.0
+2019-09-20,Teacher,104.0
+2019-09-20,bachelor degree,89.0
+2019-09-20,doctoral degree,201.0
+2019-09-20,master degree,204.0
+2019-09-21,master degree,164.0
+2019-09-21,doctoral degree,25.0
+2019-09-21,bachelor degree,95.0
+2019-09-21,Alumni,10.0
+2019-09-21,Teacher,378.0
+2019-09-22,Alumni,28.0
+2019-09-22,Teacher,6.0
+2019-09-22,bachelor degree,27.0
+2019-09-22,doctoral degree,12.0
+2019-09-22,master degree,110.0
+2019-09-23,doctoral degree,46.0
+2019-09-23,bachelor degree,167.0
+2019-09-23,master degree,206.0
+2019-09-23,Alumni,25.0
+2019-09-23,Teacher,890.0
+2019-09-24,Teacher,735.0
+2019-09-24,bachelor degree,189.0
+2019-09-24,doctoral degree,148.0
+2019-09-24,master degree,84.0
+2019-09-24,Alumni,26.0
+2019-09-25,Alumni,35.0
+2019-09-25,Teacher,179.0
+2019-09-25,bachelor degree,148.0
+2019-09-25,doctoral degree,257.0
+2019-09-25,master degree,370.0
+2019-09-26,doctoral degree,118.0
+2019-09-26,master degree,137.0
+2019-09-26,bachelor degree,125.0
+2019-09-26,Alumni,48.0
+2019-09-26,Teacher,412.0
+2019-09-27,Alumni,4.0
+2019-09-27,Teacher,278.0
+2019-09-27,bachelor degree,138.0
+2019-09-27,doctoral degree,50.0
+2019-09-27,master degree,368.0
+2019-09-28,doctoral degree,104.0
+2019-09-28,bachelor degree,68.0
+2019-09-28,master degree,170.0
+2019-09-28,Alumni,17.0
+2019-09-28,Teacher,55.0
+2019-09-29,Alumni,0.0
+2019-09-29,Teacher,90.0
+2019-09-29,bachelor degree,29.0
+2019-09-29,doctoral degree,42.0
+2019-09-29,master degree,25.0
+2019-09-30,Alumni,20.0
+2019-09-30,Teacher,169.0
+2019-09-30,bachelor degree,131.0
+2019-09-30,doctoral degree,209.0
+2019-09-30,master degree,140.0
+2019-10-01,doctoral degree,186.0
+2019-10-01,master degree,165.0
+2019-10-01,Teacher,131.0
+2019-10-01,Alumni,6.0
+2019-10-01,bachelor degree,208.0
+2019-10-02,Alumni,5.0
+2019-10-02,Teacher,533.0
+2019-10-02,bachelor degree,161.0
+2019-10-02,doctoral degree,250.0
+2019-10-02,master degree,106.0
+2019-10-03,Teacher,33.0
+2019-10-03,bachelor degree,60.0
+2019-10-03,master degree,7.0
+2019-10-04,master degree,60.0
+2019-10-04,bachelor degree,66.0
+2019-10-04,doctoral degree,88.0
+2019-10-04,Alumni,39.0
+2019-10-04,Teacher,49.0
+2019-10-05,Alumni,45.0
+2019-10-05,bachelor degree,218.0
+2019-10-05,doctoral degree,33.0
+2019-10-05,master degree,128.0
+2019-10-06,Alumni,58.0
+2019-10-06,Teacher,1.0
+2019-10-06,bachelor degree,34.0
+2019-10-06,doctoral degree,43.0
+2019-10-06,master degree,84.0
+2019-10-07,master degree,113.0
+2019-10-07,doctoral degree,112.0
+2019-10-07,bachelor degree,129.0
+2019-10-07,Teacher,204.0
+2019-10-07,Alumni,19.0
+2019-10-08,Alumni,25.0
+2019-10-08,Teacher,112.0
+2019-10-08,bachelor degree,156.0
+2019-10-08,doctoral degree,31.0
+2019-10-08,master degree,178.0
+2019-10-09,doctoral degree,36.0
+2019-10-09,bachelor degree,67.0
+2019-10-09,master degree,243.0
+2019-10-09,Alumni,20.0
+2019-10-09,Teacher,754.0
+2019-10-10,Alumni,0.0
+2019-10-10,Teacher,1226.0
+2019-10-10,bachelor degree,78.0
+2019-10-10,doctoral degree,78.0
+2019-10-10,master degree,284.0
+2019-10-11,Alumni,45.0
+2019-10-11,Teacher,312.0
+2019-10-11,bachelor degree,161.0
+2019-10-11,doctoral degree,83.0
+2019-10-11,master degree,128.0
+2019-10-12,master degree,101.0
+2019-10-12,bachelor degree,29.0
+2019-10-12,doctoral degree,57.0
+2019-10-12,Alumni,63.0
+2019-10-12,Teacher,45.0
+2019-10-14,Teacher,12.0
+2019-10-14,master degree,0.0
+2019-10-15,Alumni,25.0
+2019-10-15,Teacher,73.0
+2019-10-15,bachelor degree,280.0
+2019-10-15,doctoral degree,97.0
+2019-10-15,master degree,238.0
+2019-10-16,master degree,239.0
+2019-10-16,doctoral degree,151.0
+2019-10-16,bachelor degree,215.0
+2019-10-16,Teacher,288.0
+2019-10-16,Alumni,26.0
+2019-10-17,Alumni,1.0
+2019-10-17,Teacher,398.0
+2019-10-17,bachelor degree,288.0
+2019-10-17,doctoral degree,77.0
+2019-10-17,master degree,202.0
+2019-10-18,Alumni,6.0
+2019-10-18,Teacher,154.0
+2019-10-18,bachelor degree,258.0
+2019-10-18,doctoral degree,104.0
+2019-10-18,master degree,172.0
+2019-10-19,Teacher,43.0
+2019-10-19,master degree,123.0
+2019-10-19,doctoral degree,86.0
+2019-10-19,Alumni,11.0
+2019-10-19,bachelor degree,154.0
+2019-10-20,Alumni,6.0
+2019-10-20,bachelor degree,79.0
+2019-10-20,doctoral degree,19.0
+2019-10-20,master degree,15.0
+2019-10-21,doctoral degree,105.0
+2019-10-21,Alumni,3.0
+2019-10-21,Teacher,193.0
+2019-10-21,bachelor degree,297.0
+2019-10-21,master degree,197.0
+2019-10-22,master degree,332.0
+2019-10-22,doctoral degree,220.0
+2019-10-22,Alumni,32.0
+2019-10-22,Teacher,107.0
+2019-10-22,bachelor degree,183.0
+2019-10-23,bachelor degree,0.0
+2019-10-24,bachelor degree,221.0
+2019-10-24,doctoral degree,36.0
+2019-10-24,Alumni,56.0
+2019-10-24,Teacher,244.0
+2019-10-24,master degree,226.0
+2019-10-25,master degree,276.0
+2019-10-25,doctoral degree,209.0
+2019-10-25,Teacher,1647.0
+2019-10-25,Alumni,30.0
+2019-10-25,bachelor degree,255.0
+2019-10-26,Alumni,34.0
+2019-10-26,Teacher,99.0
+2019-10-26,bachelor degree,96.0
+2019-10-26,doctoral degree,5.0
+2019-10-26,master degree,208.0
+2019-10-27,Alumni,27.0
+2019-10-27,Teacher,8.0
+2019-10-27,bachelor degree,53.0
+2019-10-27,doctoral degree,61.0
+2019-10-27,master degree,21.0
+2019-10-28,master degree,261.0
+2019-10-28,doctoral degree,65.0
+2019-10-28,Alumni,29.0
+2019-10-28,Teacher,297.0
+2019-10-28,bachelor degree,134.0
+2019-10-29,master degree,166.0
+2019-10-29,Alumni,0.0
+2019-10-29,Teacher,325.0
+2019-10-29,bachelor degree,153.0
+2019-10-29,doctoral degree,12.0
+2019-10-30,master degree,85.0
+2019-10-30,doctoral degree,120.0
+2019-10-30,bachelor degree,263.0
+2019-10-30,Teacher,985.0
+2019-10-30,Alumni,27.0
+2019-10-31,Alumni,3.0
+2019-10-31,Teacher,137.0
+2019-10-31,bachelor degree,174.0
+2019-10-31,doctoral degree,60.0
+2019-10-31,master degree,114.0
+2019-11-01,doctoral degree,78.0
+2019-11-01,bachelor degree,122.0
+2019-11-01,master degree,297.0
+2019-11-01,Alumni,40.0
+2019-11-01,Teacher,46.0
+2019-11-02,Alumni,46.0
+2019-11-02,Teacher,116.0
+2019-11-02,bachelor degree,111.0
+2019-11-02,doctoral degree,74.0
+2019-11-02,master degree,146.0
+2019-11-03,Alumni,86.0
+2019-11-03,Teacher,4.0
+2019-11-03,bachelor degree,35.0
+2019-11-03,doctoral degree,14.0
+2019-11-03,master degree,20.0
+2019-11-04,master degree,164.0
+2019-11-04,doctoral degree,100.0
+2019-11-04,bachelor degree,176.0
+2019-11-04,Alumni,41.0
+2019-11-04,Teacher,237.0
+2019-11-05,Alumni,2.0
+2019-11-05,Teacher,218.0
+2019-11-05,bachelor degree,219.0
+2019-11-05,doctoral degree,121.0
+2019-11-05,master degree,189.0
+2019-11-06,doctoral degree,108.0
+2019-11-06,bachelor degree,118.0
+2019-11-06,master degree,116.0
+2019-11-06,Alumni,20.0
+2019-11-06,Teacher,120.0
+2019-11-07,Teacher,227.0
+2019-11-07,bachelor degree,117.0
+2019-11-07,doctoral degree,76.0
+2019-11-07,master degree,163.0
+2019-11-07,Alumni,14.0
+2019-11-08,Alumni,73.0
+2019-11-08,Teacher,97.0
+2019-11-08,bachelor degree,220.0
+2019-11-08,doctoral degree,95.0
+2019-11-08,master degree,91.0
+2019-11-09,doctoral degree,79.0
+2019-11-09,master degree,162.0
+2019-11-09,bachelor degree,126.0
+2019-11-09,Alumni,28.0
+2019-11-09,Teacher,5.0
+2019-11-10,Alumni,15.0
+2019-11-10,Teacher,14.0
+2019-11-10,bachelor degree,33.0
+2019-11-10,doctoral degree,4.0
+2019-11-10,master degree,51.0
+2019-11-11,doctoral degree,164.0
+2019-11-11,bachelor degree,163.0
+2019-11-11,master degree,305.0
+2019-11-11,Alumni,2.0
+2019-11-11,Teacher,625.0
+2019-11-12,Alumni,16.0
+2019-11-12,Teacher,219.0
+2019-11-12,bachelor degree,206.0
+2019-11-12,doctoral degree,22.0
+2019-11-12,master degree,183.0
+2019-11-13,Alumni,12.0
+2019-11-13,Teacher,640.0
+2019-11-13,bachelor degree,231.0
+2019-11-13,doctoral degree,45.0
+2019-11-13,master degree,199.0
+2019-11-14,doctoral degree,129.0
+2019-11-14,master degree,140.0
+2019-11-14,Teacher,951.0
+2019-11-14,Alumni,35.0
+2019-11-14,bachelor degree,149.0
+2019-11-15,Teacher,56.0
+2019-11-15,bachelor degree,224.0
+2019-11-15,doctoral degree,55.0
+2019-11-15,master degree,274.0
+2019-11-16,Alumni,10.0
+2019-11-16,Teacher,19.0
+2019-11-16,bachelor degree,109.0
+2019-11-16,doctoral degree,7.0
+2019-11-16,master degree,196.0
+2019-11-17,master degree,34.0
+2019-11-17,doctoral degree,59.0
+2019-11-17,Teacher,8.0
+2019-11-17,Alumni,26.0
+2019-11-17,bachelor degree,63.0
+2019-11-18,Alumni,25.0
+2019-11-18,Teacher,383.0
+2019-11-18,bachelor degree,275.0
+2019-11-18,doctoral degree,49.0
+2019-11-18,master degree,170.0
+2019-11-19,master degree,160.0
+2019-11-19,bachelor degree,380.0
+2019-11-19,doctoral degree,66.0
+2019-11-19,Alumni,7.0
+2019-11-19,Teacher,235.0
+2019-11-20,Alumni,0.0
+2019-11-20,Teacher,399.0
+2019-11-20,bachelor degree,166.0
+2019-11-20,doctoral degree,64.0
+2019-11-20,master degree,218.0
+2019-11-21,master degree,114.0
+2019-11-21,bachelor degree,198.0
+2019-11-21,doctoral degree,124.0
+2019-11-21,Alumni,39.0
+2019-11-21,Teacher,295.0
+2019-11-22,Alumni,36.0
+2019-11-22,Teacher,625.0
+2019-11-22,bachelor degree,214.0
+2019-11-22,doctoral degree,116.0
+2019-11-22,master degree,176.0
+2019-11-23,doctoral degree,81.0
+2019-11-23,Alumni,21.0
+2019-11-23,bachelor degree,181.0
+2019-11-23,master degree,61.0
+2019-11-24,doctoral degree,20.0
+2019-11-24,bachelor degree,52.0
+2019-11-24,master degree,63.0
+2019-11-24,Alumni,11.0
+2019-11-24,Teacher,121.0
+2019-11-25,master degree,126.0
+2019-11-25,doctoral degree,34.0
+2019-11-25,Alumni,19.0
+2019-11-25,Teacher,964.0
+2019-11-25,bachelor degree,169.0
+2019-11-26,Alumni,5.0
+2019-11-26,Teacher,190.0
+2019-11-26,bachelor degree,159.0
+2019-11-26,doctoral degree,154.0
+2019-11-26,master degree,322.0
+2019-11-27,master degree,153.0
+2019-11-27,doctoral degree,89.0
+2019-11-27,bachelor degree,156.0
+2019-11-27,Teacher,202.0
+2019-11-27,Alumni,14.0
+2019-11-28,Alumni,3.0
+2019-11-28,Teacher,1386.0
+2019-11-28,bachelor degree,268.0
+2019-11-28,doctoral degree,251.0
+2019-11-28,master degree,181.0
+2019-11-29,master degree,269.0
+2019-11-29,bachelor degree,230.0
+2019-11-29,doctoral degree,150.0
+2019-11-29,Alumni,75.0
+2019-11-29,Teacher,1055.0
+2019-11-30,Teacher,10.0
+2019-11-30,Alumni,60.0
+2019-11-30,bachelor degree,157.0
+2019-11-30,doctoral degree,6.0
+2019-11-30,master degree,295.0
+2019-12-01,Alumni,25.0
+2019-12-01,bachelor degree,53.0
+2019-12-01,doctoral degree,67.0
+2019-12-01,master degree,24.0
+2019-12-02,master degree,163.0
+2019-12-02,doctoral degree,73.0
+2019-12-02,bachelor degree,123.0
+2019-12-02,Alumni,10.0
+2019-12-02,Teacher,184.0
+2019-12-03,Alumni,0.0
+2019-12-03,Teacher,145.0
+2019-12-03,bachelor degree,213.0
+2019-12-03,doctoral degree,96.0
+2019-12-03,master degree,76.0
+2019-12-04,Alumni,33.0
+2019-12-04,Teacher,187.0
+2019-12-04,bachelor degree,174.0
+2019-12-04,doctoral degree,42.0
+2019-12-04,master degree,118.0
+2019-12-05,doctoral degree,15.0
+2019-12-05,bachelor degree,10.0
+2019-12-05,Alumni,0.0
+2019-12-06,Alumni,67.0
+2019-12-06,Teacher,191.0
+2019-12-06,bachelor degree,260.0
+2019-12-06,doctoral degree,200.0
+2019-12-06,master degree,207.0
+2019-12-07,Alumni,17.0
+2019-12-07,Teacher,0.0
+2019-12-07,bachelor degree,100.0
+2019-12-07,doctoral degree,46.0
+2019-12-07,master degree,146.0
+2019-12-08,master degree,3.0
+2019-12-08,doctoral degree,29.0
+2019-12-08,Alumni,12.0
+2019-12-08,bachelor degree,84.0
+2019-12-09,Alumni,18.0
+2019-12-09,Teacher,251.0
+2019-12-09,bachelor degree,222.0
+2019-12-09,doctoral degree,13.0
+2019-12-09,master degree,84.0
+2019-12-10,bachelor degree,7.0
+2019-12-10,master degree,1.0
+2019-12-11,master degree,325.0
+2019-12-11,doctoral degree,178.0
+2019-12-11,Teacher,1001.0
+2019-12-11,Alumni,32.0
+2019-12-11,bachelor degree,306.0
+2019-12-12,Alumni,5.0
+2019-12-12,Teacher,454.0
+2019-12-12,bachelor degree,172.0
+2019-12-12,doctoral degree,309.0
+2019-12-12,master degree,149.0
+2019-12-13,doctoral degree,122.0
+2019-12-13,master degree,405.0
+2019-12-13,bachelor degree,177.0
+2019-12-13,Teacher,182.0
+2019-12-13,Alumni,16.0
+2019-12-14,Alumni,67.0
+2019-12-14,Teacher,19.0
+2019-12-14,bachelor degree,134.0
+2019-12-14,master degree,135.0
+2019-12-15,Alumni,45.0
+2019-12-15,bachelor degree,81.0
+2019-12-15,doctoral degree,2.0
+2019-12-15,master degree,46.0
+2019-12-16,master degree,150.0
+2019-12-16,bachelor degree,171.0
+2019-12-16,doctoral degree,29.0
+2019-12-16,Alumni,31.0
+2019-12-16,Teacher,110.0
+2019-12-17,master degree,149.0
+2019-12-17,doctoral degree,140.0
+2019-12-17,Alumni,8.0
+2019-12-17,Teacher,197.0
+2019-12-17,bachelor degree,208.0
+2019-12-18,Alumni,58.0
+2019-12-18,Teacher,1624.0
+2019-12-18,bachelor degree,130.0
+2019-12-18,doctoral degree,54.0
+2019-12-18,master degree,231.0
+2019-12-19,master degree,69.0
+2019-12-19,doctoral degree,91.0
+2019-12-19,bachelor degree,75.0
+2019-12-19,Teacher,548.0
+2019-12-19,Alumni,21.0
+2019-12-20,Alumni,28.0
+2019-12-20,Teacher,5618.0
+2019-12-20,bachelor degree,115.0
+2019-12-20,doctoral degree,175.0
+2019-12-20,master degree,188.0
+2019-12-21,doctoral degree,64.0
+2019-12-21,bachelor degree,36.0
+2019-12-21,master degree,69.0
+2019-12-21,Alumni,49.0
+2019-12-21,Teacher,346.0
+2019-12-22,Alumni,45.0
+2019-12-22,Teacher,170.0
+2019-12-22,bachelor degree,25.0
+2019-12-22,doctoral degree,8.0
+2019-12-22,master degree,32.0
+2019-12-23,Teacher,365.0
+2019-12-23,bachelor degree,74.0
+2019-12-23,doctoral degree,25.0
+2019-12-23,master degree,308.0
+2019-12-24,master degree,32.0
+2019-12-24,doctoral degree,8.0
+2019-12-24,Teacher,184.0
+2019-12-24,bachelor degree,31.0
+2019-12-25,Teacher,47.0
+2019-12-25,bachelor degree,36.0
+2019-12-25,doctoral degree,23.0
+2019-12-25,master degree,101.0
+2019-12-26,master degree,71.0
+2019-12-26,Teacher,217.0
+2019-12-26,bachelor degree,19.0
+2019-12-26,doctoral degree,18.0
+2019-12-27,doctoral degree,164.0
+2019-12-27,master degree,35.0
+2019-12-27,Teacher,226.0
+2019-12-27,bachelor degree,65.0
+2019-12-29,bachelor degree,0.0
